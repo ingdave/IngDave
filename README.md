@@ -12,7 +12,7 @@ class Bio extends SoftwareDeveloper {
 }
 class Skills extends SoftwareDeveloper {
   languages  = ['Java','JavaScript', 'Python'];
-  databases  = ['PostgreSQL '];
-  frameworks = ['Tailwind', 'Bootstrap', 'Angular'];
+  databases  = ['PostgreSQL'];
+  frameworks = ['Tailwind', 'Bootstrap', 'Angular', 'Nexts.js', 'Express'];
 }
 ```
