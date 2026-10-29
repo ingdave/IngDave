@@ -11,7 +11,7 @@ class Bio extends SoftwareDeveloper {
   location = 'Medellin, COL';
 }
 class Skills extends SoftwareDeveloper {
-  languages  = ['Java','JavaScript', 'Python'];
+  languages  = ['Java','JavaScript', 'Python', 'React'];
   databases  = ['PostgreSQL'];
   frameworks = ['Tailwind', 'Bootstrap', 'Angular', 'Nexts.js', 'Express'];
 }
